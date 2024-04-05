@@ -2,7 +2,7 @@
 
 This code package can perform full wavefield seismic imaging using adjoint P and S wave equations.
 
-This method has been applied in volcanic structure imaging [1].
+This method has been applied in volcanic structure imaging published on Nature [1].
 
 Please cite the GJI methodology paper [2] and the Nature volcano paper [1] if you use this code in your publications:
 
