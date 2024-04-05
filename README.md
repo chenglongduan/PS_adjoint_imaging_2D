@@ -10,4 +10,4 @@ Please cite the following three papers if you use this code in your publications
 
 [2] Chenglong Duan, David Lumley, Hejun Zhu. "Microearthquake location and uncertainty analysis using a Kirchhoff wavefront imaging method: A comparison with traveltime inversion and full wavefield imaging methods." Geophysics 87 (2022): KS147–KS167. https://doi.org/10.1190/geo2021-0699.1
 
-[3]
+[3] Chenglong Duan, Wenkai Song, Brandon Schmandt, Jamie Farrell, David Lumley, Tobias Fischer, Lindsey Worthington, Fan-Chi Lin. "A sharply defined volatile-rich cap of magma reservoir beneath Yellowstone caldera." Nature submitted.
