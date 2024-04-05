@@ -6,6 +6,6 @@ This method has been applied in volcanic structure imaging [1].
 
 Please cite the methodology paper [2] and the structure imaging paper [1] if you use this code in your publications:
 
-[1] Chenglong Duan, Wenkai Song, Brandon Schmandt, Jamie Farrell, David Lumley, Tobias Fischer, Lindsey Worthington, Fan-Chi Lin. "A sharply defined volatile-rich cap of magma reservoir beneath Yellowstone caldera." Nature submitted.
+[1] Chenglong Duan, Wenkai Song, Brandon Schmandt, Jamie Farrell, David Lumley, Tobias Fischer, Lindsey Worthington, Fan-Chi Lin. "A sharply defined volatile-rich cap of magma reservoir beneath Yellowstone caldera." Nature submitted (2024).
 
 [2] Chenglong Duan, David Lumley, Hejun Zhu. "Estimation of micro-earthquake source locations based on full adjoint P and S wavefield imaging." Geophysical Journal International 226 (2021): 2116–2144. https://doi.org/10.1093/gji/ggab203
