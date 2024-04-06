@@ -2,7 +2,7 @@
 
 This code package can perform full wavefield seismic reflection imaging using adjoint P and S wave equations.
 
-This method [1] has been applied in volcanic structure imaging published on Nature [2].
+This method [1] has been applied to volcanic structure imaging published on Nature [2].
 
 Please cite the GJI methodology paper [1] and the Nature volcano application paper [2], if you use this code in your publications:
 
