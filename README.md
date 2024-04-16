@@ -8,4 +8,4 @@ Please cite the GJI methodology paper [1] and the Nature volcano application pap
 
 [1] Chenglong Duan, David Lumley, Hejun Zhu. "Estimation of micro-earthquake source locations based on full adjoint P and S wavefield imaging." Geophysical Journal International 226 (2021): 2116–2144. https://doi.org/10.1093/gji/ggab203
 
-[2] Chenglong Duan, Wenkai Song, Brandon Schmandt, Jamie Farrell, David Lumley, Tobias Fischer, Lindsey Worthington, Fan-Chi Lin. "A sharply defined volatile-rich cap of magma reservoir beneath Yellowstone caldera." Nature submitted (2024).
+[2] Chenglong Duan, Wenkai Song, Brandon Schmandt, Jamie Farrell, David Lumley, Tobias Fischer, Lindsey Worthington, Fan-Chi Lin. "A sharply defined volatile-rich cap of magma reservoir beneath Yellowstone caldera." Submitted (2024).
