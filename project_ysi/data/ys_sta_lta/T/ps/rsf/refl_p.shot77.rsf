@@ -1,0 +1,1 @@
+n1=2001 n2=89 d1=0.004 d2=1 o1=0 o2=0 data_format=native_float in=/petastore/ganymede/home/cxd170430/mako_codes/ACOUSTIC2D_RTM_NEW/project_twolayer/data/ys_sta_lta/T/ps/obs.bin.shot77 label1=Time label2=Distance unit1=s unit2=m
