@@ -1,6 +1,6 @@
 # PS_adjoint_imaging_2D
 
-This code package can perform full wavefield seismic reflection imaging using adjoint P and S wave equations, which is parallelized using Message Passing Interface (MPI) techniques under C programming. Note that this code was originally developed to run on Intel HPC slurm system. Be aware of potential errors running on any other platforms.
+This code package can perform full wavefield seismic reflection imaging using adjoint P and S wave equations, which is parallelized using Message Passing Interface (MPI) techniques under C programming. Note that this code was originally developed to run on Intel HPC slurm system. Be aware of potential errors if running the code on any other platforms.
 
 This method [1] has been applied to volcanic structure imaging submitted to a journal paper [2].
 
