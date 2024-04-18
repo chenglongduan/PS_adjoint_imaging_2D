@@ -1,15 +1,1 @@
-isxpos=50:20:1450;
-sxpos=(isxpos-1)*10;
-iszpos=ones(size(sxpos))*4;
-szpos=(iszpos-1)*10;
-
-source_file(sxpos, szpos, '/home0/cxd170430/codes/ACOUSTIC2D_RTM/source_test.txt');
-
-irxpos=10:10:1490;
-rxpos=(irxpos-1)*10;
-irzpos=ones(size(rxpos))*6;
-rzpos=(irzpos-1)*10;
-
-for isrc=1:71
-    receiver_file(isrc, rxpos, rzpos, '/home0/cxd170430/codes/ACOUSTIC2D_RTM/');
-end
+This folder contains matlab scripts to generate relevent files used in imaging.
